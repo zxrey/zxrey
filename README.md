@@ -11,7 +11,9 @@ I'm from Cusco, Perú.
 
 - ☁️ I like share **Knowledge** 
 
-- 🔭 I'm interested in **Economy, behavioral economy, behavioral psychology, data science, and science in general** ✨
+- 🔭 I'm interested in **Economy, behavioral economy, psychology, data science, and science in general** ✨
+
+- 🌱 I’m currently learning on Le Wagon 🚌
 
 I'm still learning about Github! 
 
