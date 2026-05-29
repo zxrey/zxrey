@@ -13,9 +13,9 @@ I'm from Cusco, Perú.
 
 - 🔭 I'm interested in **Economy, behavioral economy, psychology, data science, and science in general** ✨
 
-- 🌱 I’m currently learning on Le Wagon 🚌
+- 🌱 I finished bootcamp on Le Wagon 🚌
 
-I'm still learning about Github! 
+
 
 - 📫 How to reach me:
 <p><a href="https://github.com/zxrey" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/reynaldo-huaman-38ab50113/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
