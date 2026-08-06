@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Reynaldo Huaman Valenzuela
 
-🎓 **Bachelor in Economics** — Universidad Nacional San Antonio Abad del Cusco
+🎓 **Bachelor in Economics** - Universidad Nacional San Antonio Abad del Cusco
 
 📊 **Junior Data Scientist** | Passionate about data science
 
