@@ -2,7 +2,7 @@
 
 🎓 **Bachelor in Economics** — Universidad Nacional San Antonio Abad del Cusco
 
-📊 **Aspiring Data Analyst** | Passionate about behavioral economics & data science
+📊 **Junior Data Analyst** | Passionate about data science
 
 🎒 **Le Wagon Data Science Bootcamp graduate**
 
