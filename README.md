@@ -34,7 +34,7 @@
 
 **Results:** The model reached a ROC-AUC of 0.613 and PR-AUC of 0.198 (vs. a 0.11 no-skill baseline). The analysis also found that late delivery is by far the strongest driver of bad reviews, and identified specific regions and product categories as the highest-impact targets for improvement.
 
-### Game-On — Semantic Video Game Search Engine
+### Game-On - Semantic Video Game Search Engine
 
 **Code:** [Game-On-Project](https://github.com/zxrey/Game-On-Project)
 
